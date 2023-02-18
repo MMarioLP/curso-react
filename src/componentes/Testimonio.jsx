@@ -16,7 +16,3 @@ import '../hojas-de-estilo/Testimonio.css';
   );
 }  
 export default Testimonio;
-
-//lograr que eel etxto testimonio aparezca en negrita
-// que el alt de la descripcion corresponda a la imagen dinamicamente de acuredo a la imagen
-// guardar los valores de los props en un archivo por separado en un solo objeto de javascript  
